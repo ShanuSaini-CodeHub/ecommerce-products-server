@@ -1,0 +1,138 @@
+{
+  "status": 200,
+  "message": "Fetched products list successfully",
+  "data": [
+    {
+      "id": 25,
+      "name": "HP X1000 Wired USB Mouse with 3 Handy Buttons",
+      "description": "3 buttons improve productivity;Optical sensor works on most surfaces. The sleek and modern HP Mouse X1000 adds an instant touch of trend-setting style to any work space. Glossy black and metallic gray shine with sophistication. 3 years manufacturer warranty on the device from the date of purchase. Operating System: Windows Xp;Style Name: 1600 Dpi",
+      "price": 269,
+      "manufacture": "HP",
+      "type": "Accessories",
+      "code": "Accessory_1",
+      "quantity": 20,
+      "imagePath": "static-content/assets/images/Accessories/Accessory_1.jpg"
+    },
+    {
+      "id": 26,
+      "name": "HP 240 Bluetooth Mouse with  wheel",
+      "description": "Lock On with Bluetooth 5.1:Lose the dongle with the a mouse that has Bluetooth 5.1 wireless connectivity. Picks up power efficiency, and ensures a longer and stronger connection.\nSmooth, Speedy, Sensitive:This mouse's optical sensor has super accurate tracking at 1600 DPI to precisely pick up every flick of your wrist - smooth, speedy, and sensitive.",
+      "price": 799,
+      "manufacture": "HP",
+      "type": "Accessories",
+      "code": "Accessory_2",
+      "quantity": 10,
+      "imagePath": "static-content/assets/images/Accessories/Accessory_2.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Lenovo 600 Bluetooth 5.0 Silent Mouse",
+      "description": "Blue Optical Sensor: Take your productivity to the max with a blue optical sensor that allows you to work on almost any surface, revolutionary, distraction-free silent buttons, and on-the-fly adjustable DPI controls. DPI Resolution : 3-level Adjustable (800, 1600, 2400)\nButton Life: Right/Left buttons - up to 3 million click;Scroll button - up to 100,000 clicks | Number of Buttons : 4 (Left Click, Right Click, Scroll Click, DPI Switch) | Scrolling : 2-way Scroll Wheel",
+      "price": 1499,
+      "manufacture": "Lenovo",
+      "type": "Accessories",
+      "code": "Accessory_3",
+      "quantity": 50,
+      "imagePath": "static-content/assets/images/Accessories/Accessory_3.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Lenovo 400 Wireless Mouse with optical sensor ",
+      "description": "Take out the mouse, insert the USB, and click away. Your connection stays strong with the 2.4 GHz USB receiver. And when you’re done, dock the receiver in the mouse itself. Long hours are no match for this well-designed mouse. The Lenovo 400 Wireless Mouse is ergonomically sculpted to keep you comfortable even on days you’re burning the midnight oil. The Lenovo 400 Wireless Mouse meets our rigorous test standards and is a sure bet, with a battery life of up to 12 months and left/right buttons that last up to 8 million clicks",
+      "price": 799,
+      "manufacture": "Lenovo",
+      "type": "Accessories",
+      "code": "Accessory_4",
+      "quantity": 20,
+      "imagePath": "static-content/assets/images/Accessories/Accessory_4.jpg"
+    },
+    {
+      "id": 29,
+      "name": "HP (Refurbished) 150 Wired Keyboard",
+      "description": "This Renewed product is tested to work and look like new with minimal to no signs of wear & tear; the product comes with relevant accessories and is backed by a minimum six month seller warranty; box may be generic. Quick, Comfy, Accurate: This chiclet-style keyboard's design is sleek. The low-profile design keeps keystrokes quick, comfy, and quite accurate...just your type. A Shortcut Above: Common controls are integrated into 12 shortcut combos with the Fn key—music, movies, volume, homepage, bookmarks, and email. Now that's a shortcut above.",
+      "price": 446,
+      "manufacture": "HP",
+      "type": "Accessories",
+      "code": "Accessory_5",
+      "quantity": 60,
+      "imagePath": "static-content/assets/images/Accessories/Accessory_5.jpg"
+    },
+    {
+      "id": 30,
+      "name": "HP GK320 Wired Full Size RGB Backlight Gaming Keyboard",
+      "description": "Convertible dynamic mixing can easily adjust the brightness and switch display modes, and the variety of light effects are dazzling and exciting, and your desire to fight is stimulated.\n50 million times ultra-long lifetime mechanical switch, A variety of mechanical buttons let you experience different knocks.\nMatt double Injection Keycaps With a magnetic ring to eliminate interfering signals and transmission error",
+      "price": 1947,
+      "manufacture": "HP",
+      "type": "Accessories",
+      "code": "Accessory_6",
+      "quantity": 15,
+      "imagePath": "static-content/assets/images/Accessories/Accessory_6.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Lenovo 300 USB Keyboard, Wired, Adjustable Tilt",
+      "description": "The Lenovo 300 USB Keyboard is perfect for those looking for a basic USB keyboard that just works. The keyboard boasts an island key design that makes typing a joy. In addition, the Lenovo 300 USB Keyboard passed rigorous testing simulations to ensure maximum reliability.",
+      "price": 5334,
+      "manufacture": "Lenovo",
+      "type": "Accessories",
+      "code": "Accessory_7",
+      "quantity": 45,
+      "imagePath": "static-content/assets/images/Accessories/Accessory_7.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Lenovo 510 Wireless Keyboard and Mouse Set",
+      "description": "Complete control of both your wireless keyboard & mouse combo with a simple 2.4 GHz dongle. Spill resistant keyboard. With a liquid-resistant, molded casing, your keyboard won’t mind sharing a cup of your morning joe. With LED indicators on the Caps Lock and Num Lock keys, easily avoid password typos. Complete control of both your wireless keyboard & mouse combo with a simple 2.4 GHz dongle. Spill resistant keyboard. With LED indicators on the Caps Lock and Num Lock keys, easily avoid password typos",
+      "price": 2290,
+      "manufacture": "Lenovo",
+      "type": "Accessories",
+      "code": "Accessory_8",
+      "quantity": 15,
+      "imagePath": "static-content/assets/images/Accessories/Accessory_8.jpg"
+    },
+    {
+      "id": 33,
+      "name": "SanDisk Ultra Dual Drive Go USB Type C Pendrive",
+      "description": "The 2-in-1 flash drive with a reversible USB Type-C and a traditional Type-A connector. Seamlessly move content between your USB Type-C smartphone, tablets and Macs and USB Type-A computers. Free up space on your USB Type-C smartphone so you can take more photos. Automatically back up photos using the SanDisk Memory Zone app. High-performance USB 3.1 Gen 1 drive with 150MB/s read speeds lets you quickly move your files to your computer.",
+      "price": 1099,
+      "manufacture": "ScanDisk",
+      "type": "Accessories",
+      "code": "Accessory_9",
+      "quantity": 40,
+      "imagePath": "static-content/assets/images/Accessories/Accessory_9.jpg"
+    },
+    {
+      "id": 34,
+      "name": "SanDisk Ultra Dual Drive Go USB Type- C",
+      "description": "The 2-in-1 Pendrive for Mobile with a reversible USB Type-C and a traditional Type-A connector. Seamlessly move content between your USB Type-C smartphone, tablets and Macs and USB Type-A computers. High-performance USB 3.2 Gen 1 drive with 400MB/s read speeds lets you quickly move your files to your computer. Free up space on your USB Type-C smartphone so you can take more photos",
+      "price": 2289,
+      "manufacture": "ScanDisk",
+      "type": "Accessories",
+      "code": "Accessory_10",
+      "quantity": 30,
+      "imagePath": "static-content/assets/images/Accessories/Accessory_10.jpg"
+    },
+    {
+      "id": 35,
+      "name": "SanDisk SDCZ50-128G-I35 USB2.0 128 GB Pen Drive",
+      "description": "Compact design for maximum portability. Simple drag-and-drop file backup. Material:Plastic. USB 2.0 interface",
+      "price": 819,
+      "manufacture": "ScanDisk",
+      "type": "Accessories",
+      "code": "Accessory_11",
+      "quantity": 20,
+      "imagePath": "static-content/assets/images/Accessories/Accessory_11.jpg"
+    },
+    {
+      "id": 36,
+      "name": "SanDisk Ultra Curve USB 3.2 32GB 100MB/s R Navy Blue",
+      "description": "Compact Design for Maximum Portability. Store more with capacities up to 16gb 5-year limited warranty , High-Capacity Drive Accommodates Your Favorite Media Files. Write Speed : 20 MB/s (USB 2.0). Operating temperature: 0ºC to 45ºC , Storage temperature: -10ºC to 70ºC. SanDisk SecureAccess Software Protects Drive from Unauthorized Access",
+      "price": 429,
+      "manufacture": "ScanDisk",
+      "type": "Accessories",
+      "code": "Accessory_12",
+      "quantity": 50,
+      "imagePath": "static-content/assets/images/Accessories/Accessory_12.jpg"
+    }
+  ]
+}

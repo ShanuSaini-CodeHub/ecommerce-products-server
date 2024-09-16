@@ -1,0 +1,8 @@
+{
+  "status": 200,
+  "message": "Authentication successful",
+  "data": {
+    "name": "Shanu Saini",
+    "email": "sainishanu@gmail.com"
+  }
+}

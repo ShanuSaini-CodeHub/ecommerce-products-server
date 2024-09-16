@@ -1,0 +1,39 @@
+{
+  "status": 200,
+  "message": "Fetched products suggestions successfully",
+  "data": [
+    {
+      "id": 21,
+      "name": "Lenovo Ideapad Slim 1 AMD Ryzen 5 5500U ",
+      "description": "Lenovo Ideapad 3 AMD Ryzen 5 5500U 15.6\" FHD Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/Backlit Keyboard/2Yr Warranty/Arctic Grey/1.65Kg), 82KU017KIN",
+      "price": 35990,
+      "manufacture": "Lenovo",
+      "type": "Laptops",
+      "code": "Laptop_9",
+      "quantity": 40,
+      "imagePath": "static-content/assets/images/Laptops/Laptop_9.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Lenovo IdeaPad Slim 3 Intel Core i3-1115G4",
+      "description": "Processor: 11th Gen Intel Core i3-1115G4 | Speed: 3.0 GHz (Base) - 4.1 GHz (Max) | 2 Cores | 4 Threads | 6MB Cache. OS & Software: Windows 11 Home 64 | Office Home and Student 2021 | Xbox GamePass Ultimate 3-month subscription*. Graphics: Integrated Intel UHD Graphics | Memory: 8GB RAM DDR4-3200, Upgradable Up to 16GB | Storage: 256 GB SSD. Display: 15.6\" FHD (1920x1080) | TN Technology Display | 250Nits Brightness | Anti Glare. Design: 4 side narrow bezel | 1.99 cm & 1.65 kg | Non-backlit Keyboard | Connectivity: Wi-Fi 5 (11ac | 2x2) | BT 5.0",
+      "price": 29990,
+      "manufacture": "Lenovo",
+      "type": "Laptops",
+      "code": "Laptop_10",
+      "quantity": 30,
+      "imagePath": "static-content/assets/images/Laptops/Laptop_10.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Lenovo V15 Intel Core i7 12th Gen",
+      "description": "Processor: 12th Gen Intel Core I7-1255U processor | 10 Cores | 12 Threads | Speed Upto 4.7 Ghz | 12MB Cache | Memory: 16GB DDR4 RAM 3200 MHz, dual-channel capable upgradable up to 16 GB | Storage: 512GB SSD. Operating System: Pre-loaded Windows 11 Home SL with lifetime Validity. Display: 15.6\" screen with (1920x1080) FHD Antiglare, 250nits display | Graphics: Intel Iris Xe Graphics comes with DirectX 12.1 enables amazing graphics| Monitor Supports: Supports upto 3 independent displays",
+      "price": 49990,
+      "manufacture": "Lenovo",
+      "type": "Laptops",
+      "code": "Laptop_11",
+      "quantity": 20,
+      "imagePath": "static-content/assets/images/Laptops/Laptop_11.jpg"
+    }
+  ]
+}

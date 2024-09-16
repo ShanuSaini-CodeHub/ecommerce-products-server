@@ -1,0 +1,72 @@
+{
+  "status": 200,
+  "message": "Fetched search results successfully",
+  "data": [
+    {
+      "id": 14,
+      "name": "Dell 15 Laptop, Intel Core i5-1135G7 Processor",
+      "description": "Processor: Intel Core i5-1135G7 11th Generation Processor(up to 4.20 GHz) 8MB Cache, 4 Cores. RAM & Storage: 8 GB, 1 x 8 GB, DDR4, 2666 MHz, (2 DIMM Slots, Expandable up to 16GB) & 1TB HDD + 256GB SSD. Software: Win 11 Home + Office H&S 2021, 15 Months McAfee antivirus subscription, Dell Mobile Connect, My Dell, Dell Power Manager, McAfee, Support Assist, Dell ComfortView. Graphics & Keyboard: Integrated Onboard Graphics & Standard Keyboard // Display: 15.6\" FHD WVA AG Narrow Border",
+      "price": 43490,
+      "manufacture": "Dell",
+      "type": "Laptops",
+      "code": "Laptop_2",
+      "quantity": 10,
+      "imagePath": "static-content/assets/images/Laptops/Laptop_2.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Dell Inspiron 3530 Laptop, 13th Gen Intel Core i5-1335U",
+      "description": "Processor: Intel 13th Gen i5-1335U, up to 4.60 GHz, 12MB, 10 Cores // RAM: 16 GB, 2 x 8 GB, DDR4, 2666 MHz // Storage: 1TB SSD. Software: Pre-Loaded Windows 11 Home with Lifetime Validity | MS Office Home and Student 2021 with lifetime validity| McAfee Multi Device Security 15-month subscription. Display: 15.6\" FHD WVA AG 120Hz 250 nits Narrow Border // Graphics: INTEGRATED // Keyboard: Backlit Keyboard. Ports: 1 USB 2.0 port, 1 Headset jack, 1 HDMI 1.4 port, 1 Flip-Down RJ-45 port 10/100/1000 Mbps, 1 SD 3.0 card slot, 1 USB 3.2 Gen 1 port, USB 3.2 Gen 1 Type-C (data only)",
+      "price": 65519,
+      "manufacture": "Dell",
+      "type": "Laptops",
+      "code": "Laptop_4",
+      "quantity": 20,
+      "imagePath": "static-content/assets/images/Laptops/Laptop_4.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Lenovo Ideapad Slim 1 AMD Ryzen 5 5500U ",
+      "description": "Lenovo Ideapad 3 AMD Ryzen 5 5500U 15.6\" FHD Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/Backlit Keyboard/2Yr Warranty/Arctic Grey/1.65Kg), 82KU017KIN",
+      "price": 35990,
+      "manufacture": "Lenovo",
+      "type": "Laptops",
+      "code": "Laptop_9",
+      "quantity": 40,
+      "imagePath": "static-content/assets/images/Laptops/Laptop_9.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Lenovo IdeaPad Slim 3 Intel Core i3-1115G4",
+      "description": "Processor: 11th Gen Intel Core i3-1115G4 | Speed: 3.0 GHz (Base) - 4.1 GHz (Max) | 2 Cores | 4 Threads | 6MB Cache. OS & Software: Windows 11 Home 64 | Office Home and Student 2021 | Xbox GamePass Ultimate 3-month subscription*. Graphics: Integrated Intel UHD Graphics | Memory: 8GB RAM DDR4-3200, Upgradable Up to 16GB | Storage: 256 GB SSD. Display: 15.6\" FHD (1920x1080) | TN Technology Display | 250Nits Brightness | Anti Glare. Design: 4 side narrow bezel | 1.99 cm & 1.65 kg | Non-backlit Keyboard | Connectivity: Wi-Fi 5 (11ac | 2x2) | BT 5.0",
+      "price": 29990,
+      "manufacture": "Lenovo",
+      "type": "Laptops",
+      "code": "Laptop_10",
+      "quantity": 30,
+      "imagePath": "static-content/assets/images/Laptops/Laptop_10.jpg"
+    },
+    {
+      "id": 29,
+      "name": "HP (Refurbished) 150 Wired Keyboard",
+      "description": "This Renewed product is tested to work and look like new with minimal to no signs of wear & tear; the product comes with relevant accessories and is backed by a minimum six month seller warranty; box may be generic. Quick, Comfy, Accurate: This chiclet-style keyboard's design is sleek. The low-profile design keeps keystrokes quick, comfy, and quite accurate...just your type. A Shortcut Above: Common controls are integrated into 12 shortcut combos with the Fn key—music, movies, volume, homepage, bookmarks, and email. Now that's a shortcut above.",
+      "price": 446,
+      "manufacture": "HP",
+      "type": "Accessories",
+      "code": "Accessory_5",
+      "quantity": 60,
+      "imagePath": "static-content/assets/images/Accessories/Accessory_5.jpg"
+    },
+    {
+      "id": 30,
+      "name": "HP GK320 Wired Full Size RGB Backlight Gaming Keyboard",
+      "description": "Convertible dynamic mixing can easily adjust the brightness and switch display modes, and the variety of light effects are dazzling and exciting, and your desire to fight is stimulated.\n50 million times ultra-long lifetime mechanical switch, A variety of mechanical buttons let you experience different knocks.\nMatt double Injection Keycaps With a magnetic ring to eliminate interfering signals and transmission error",
+      "price": 1947,
+      "manufacture": "HP",
+      "type": "Accessories",
+      "code": "Accessory_6",
+      "quantity": 15,
+      "imagePath": "static-content/assets/images/Accessories/Accessory_6.jpg"
+    }
+  ]
+}
